@@ -1,0 +1,8 @@
+your_name = input("what is your name:")
+your_major = input("what is your major:")
+print("Hello,", your_name, "taking this class will really help with", your_major)
+your_class = input("whats is your favorite class:")
+loud_class = your_class.upper()
+small_case_version = your_class.lower()
+print(loud_class)
+print(small_case_version)
