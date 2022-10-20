@@ -9,3 +9,4 @@ print(courses)
 # courses.remove('Comp150')
 courses.pop(4) #or -1 if you're counting backwards
 print(courses)
+
